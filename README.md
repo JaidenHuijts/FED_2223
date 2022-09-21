@@ -112,19 +112,17 @@ https://www.ajax.nl
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Jaiden            | ---                | ---          | ---              |
+  | -Plakkende footer  | en dit             | en ik dit    | en dan ik dat    |
+  |            | dit als er tijd is | nog een punt | dit wil ik zeker |
+  |                | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Html netter
+  - Soms is less more
 
 </details>
 
@@ -135,19 +133,21 @@ https://www.ajax.nl
 ## Voortgang 2 (week 3)
 
 <details>
-  <summary>uitwerken voor 2e voortgang</summary>
+  <summary>Afgelopen week veel vast gelopen met het gebruiken van grid en flexbox. Ik denk vaak te moeilijk na terwijl het heel simpel kan. Buiten dat om heb ik wel grote stappen gezet qua vormgeving en nader ik de eindstreep met mijn vormgeving voor de homepagina. Ik heb bijna heel de footer afgemaakt op paar kleine dingetjes na en ga mij voorbereiden op de javascript voor deze pagina.</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Na gepuzzel met het gebruik van grid in de footer heb ik eindelijk alle onderdelen netjes geordend dus daar was ik blij mee. Ik ben nu vooral bezig met het na maken van hoe de content zelf zoals afbeeldingen en filmpjes worden vorm gegeven 
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Jaiden            | ---                | ---          | ---              |
+  | Footer social en 
+  sponsor buttons niet 
+  naast elkaar | en dit             | en ik dit    | en dan ik dat    |
+  |Tekst vergroot niet mee | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
