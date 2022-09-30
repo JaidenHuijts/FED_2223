@@ -53,8 +53,7 @@ https://www.ajax.nl
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
-  <summary>uitwerken na test in 1e werkgroep</summary>
-
+ 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
@@ -171,28 +170,25 @@ https://www.ajax.nl
   <summary>uitwerken na test in 8e werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is): 
+  
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+Bij de screenreader test kwam ik er achter dat ik nog geen alts in mijn afbeeldingen had en dat daardoor de afbeeldingen niet in de focus kwamen, hetzelfde geld voor de li's in de slider
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+ Op het muis en toetsenbord was de uitkomst dat ik nog links overal in moest zetten
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Dit ging gewoon prima
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  het contrast op de tekst bij de tweede sectie was niet goed zichtbaar dus hier moet ik wat op verzinnen ik denk dat ik de standaard background image van ajax op de h2 ga zetten en dan word de achtergrond rood
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
@@ -208,17 +204,16 @@ https://www.ajax.nl
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Was een hele drukke week. Door de verkeerde inleverdatum van vormgeving die gegeven was ik aardig in de stress. Ik heb wel veel stappen gemaakt: qua lay out is het sprekend de echt website bijna (Op paar dingen na).  Het is nu vooral de kleine onderdelen nog aanpakken
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Jaiden Huijts      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | - Alles clickable maken               | en dit             | en ik dit    | en dan ik dat    |
+  | - Stijl van de slider aanpassen              | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | - tekst bij de klok               | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
