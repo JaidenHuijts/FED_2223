@@ -209,11 +209,11 @@ Bij de screenreader test kwam ik er achter dat ik nog geen alts in mijn afbeeldi
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Jaiden Huijts      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | - Alles clickable maken               | en dit             | en ik dit    | en dan ik dat    |
-  | - Stijl van de slider aanpassen              | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | - tekst bij de klok               | ...                | ...          | ...              |
+  | Jaiden Huijts                         | Frank Groot         | Ying          | Samantha       |
+  | ---                                   | ---                 | ---           |           |
+  | - Alles clickable maken               | Html tabbaar maken  | Carrousel     | Meerdere css    |
+  | - Stijl van de slider aanpassen       |                     | responsiveness|
+  | - tekst bij de klok                   | ...                 |               | ...              |
 
 
   ### Verslag van meeting
