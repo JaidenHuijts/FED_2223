@@ -44,7 +44,7 @@ https://www.ajax.nl
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Ticket pagina ajax 
-  <img src="scherm2.png" width="375px" alt="ticketverkoop">
+  <img src= url( width="375px" alt="ticketverkoop">
  
 </details>
 
@@ -86,7 +86,7 @@ https://www.ajax.nl
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="breakdown.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -113,8 +113,8 @@ https://www.ajax.nl
   | student 1      | student 2          | student 3    | student 4        |
   | Jaiden            | ---                | ---          | ---              |
   | -Plakkende footer  | en dit             | en ik dit    | en dan ik dat    |
-  |            | dit als er tijd is | nog een punt | dit wil ik zeker |
-  |                | ...                | ...          | ...              |
+  |                  | dit als er tijd is | nog een punt | dit wil ik zeker |
+  |                   | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
@@ -153,10 +153,8 @@ https://www.ajax.nl
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  -Het vergroten van de text bleek iets heel simpels te zijn dus dat was zo opgelost
+  
 
 </details>
 
@@ -219,10 +217,8 @@ Bij de screenreader test kwam ik er achter dat ik nog geen alts in mijn afbeeldi
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Alles is opgelost
+  - slider te moeilijk
 
 </details>
 
@@ -233,20 +229,22 @@ Bij de screenreader test kwam ik er achter dat ik nog geen alts in mijn afbeeldi
 ## Eindgesprek (week 5)
 
 <details>
-  <summary>uitwerken voor eindgesprek</summary>
+  <summary> Ik ben trots op het resultaat wat ik heb bereikt. Had wel heel veel stress om dit vak de afgelopen weken denk dat het iets te veel is om het in vier/vijf weken af te maken</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Wat goed ging is dat ik geleerd heb om met grid te werken en dat ik steeds beter werd in het gebruik van responsive delen van je website. Zoals hoe je je width gebruikt.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Wat niet gelukt is, is de slider styling. Ik kreeg dit niet voor elkaar vond het te moeilijk. Sanne zei dat dit voor later is.
+  
+  De hover op de share buttons was mij ook niet gelukt hier voor heb ik dus een andere hover gebruikt
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
@@ -262,8 +260,8 @@ Bij de screenreader test kwam ik er achter dat ik nog geen alts in mijn afbeeldi
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://codepen.io/jaidenhuijts/pen/Jjvvpqq
+  2. www.freesound.com
+  3. www.ajax.nl
 
 </details>
