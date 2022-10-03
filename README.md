@@ -40,11 +40,11 @@ https://www.ajax.nl
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home pagina ajax
-  <img src="AjaxContent/scherm1.png" width="375px" alt="home pagina ajax">
+  <img src="readme-images/scherm1.png" width="375px" alt="home pagina ajax">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Ticket pagina ajax 
-  <img src= "AjaxContent/scherm2.png" width="375px" alt="AJAX1">
+  <img src= "readme-images/scherm2.png" width="375px" alt="AJAX1">
  
 </details>
 
@@ -86,10 +86,10 @@ https://www.ajax.nl
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="breakdown.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="breakdown2.png" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/breakdown2.png" width="375px" alt="breakdown van een dynamisch deel">
 
 
 </details>
@@ -232,13 +232,13 @@ Bij de screenreader test kwam ik er achter dat ik nog geen alts in mijn afbeeldi
   <summary> Ik ben trots op het resultaat wat ik heb bereikt. Had wel heel veel stress om dit vak de afgelopen weken denk dat het iets te veel is om het in vier/vijf weken af te maken</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="trots.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/trots.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Wat goed ging is dat ik geleerd heb om met grid te werken en dat ik steeds beter werd in het gebruik van responsive delen van je website. Zoals hoe je je width gebruikt.
 
-  <img src="Trots2.png" width="375px" alt="top">
+  <img src="readme-images/Trots2.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
@@ -246,7 +246,7 @@ Bij de screenreader test kwam ik er achter dat ik nog geen alts in mijn afbeeldi
   
   De hover op de share buttons was mij ook niet gelukt hier voor heb ik dus een andere hover gebruikt
 
-  <img src="nietgelukt.png" width="375px" alt="bummer">
+  <img src="readme-images/nietgelukt.png" width="375px" alt="bummer">
 </details>
 
 
